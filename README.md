@@ -24,7 +24,7 @@
 - 衣物卡片：照片、名称、分类、颜色、数量；
 - 新增：右下角 `+` 快速新增衣物；
 - 底部导航：看板 / 衣橱 / 我的。
-- <img width="1228" height="2700" alt="4d3c81706e3b43ed18d24b3e27f1bc72" src="https://github.com/user-attachments/assets/236ee23e-d743-4dab-9b8e-421b9f0d665b" />
+- <img width="600" height="1319" alt="4d3c81706e3b43ed18d24b3e27f1bc72" src="https://github.com/user-attachments/assets/236ee23e-d743-4dab-9b8e-421b9f0d665b" />
 
 
 详细界面说明见：[`docs/UI-INTERFACE.md`](docs/UI-INTERFACE.md)。
